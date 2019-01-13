@@ -32,6 +32,9 @@ Plug 'altercation/vim-colors-solarized'
 " Tmux
 Plug 'christoomey/vim-tmux-navigator'
 
+" Multicursor
+Plug 'terryma/vim-multiple-cursors'
+
 " Tagbar
 Plug 'majutsushi/tagbar'
 
